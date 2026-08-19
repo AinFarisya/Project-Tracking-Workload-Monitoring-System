@@ -566,10 +566,9 @@ The system development phase has been completed, including:
 * Workload monitoring
 * Dashboard integration
 * System testing and refinement
+Deployment and production rollout are being managed internally by Celestica staff.
 
 ---
-
-Deployment and production rollout are being managed internally by Celestica staff.
 
 ## Planned Improvements
 
